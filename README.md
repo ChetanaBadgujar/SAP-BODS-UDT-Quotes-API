@@ -13,5 +13,3 @@ This project fetches quotes from a REST API, loads the data into a template tabl
 **Target**:  
 - Template table: QUOTE_TABLE(id, quote, author)
 
-
-!https://github.com/ChetanaBadgujar/SAP-BODS-UDT-Quotes-API/blob/master/IMG20250915144549.jpg
